@@ -1,4 +1,4 @@
-#MY-OPEN-IA
+# MY-OPEN-IA
 
 My-open-ia is a python developed app for chatting with open-ai artificial inteligence.
 
